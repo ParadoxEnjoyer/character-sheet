@@ -2,12 +2,13 @@
     "id": "custom-sheet",
     "title": "custom sheet - first module example",
     "description": "A simple module so I can grok module development",
+    "version": "0.1",
+    "url": "https://github.com/ParadoxEnjoyer/character-sheet/
     "authors": [
         {
             "name": "Deby"
         }
     ],
-    "version": "0.1",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
