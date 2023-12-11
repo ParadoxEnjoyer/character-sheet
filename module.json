@@ -3,7 +3,9 @@
     "title": "custom sheet - first module example",
     "description": "A simple module so I can grok module development",
     "version": "0.1",
-    "url": "https://github.com/ParadoxEnjoyer/character-sheet/
+    "url": "https://github.com/ParadoxEnjoyer/character-sheet/",
+    "manifest": "https://raw.githubusercontent.com/ParadoxEnjoyer/character-sheet/module.json"
+    "download":,
     "authors": [
         {
             "name": "Deby"
