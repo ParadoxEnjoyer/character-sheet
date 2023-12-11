@@ -5,7 +5,7 @@
     "version": "0.1",
     "url": "https://github.com/ParadoxEnjoyer/character-sheet/",
     "manifest": "https://raw.githubusercontent.com/ParadoxEnjoyer/character-sheet/module.json"
-    "download":,
+    "download": "https://github.com/ParadoxEnjoyer/character-sheet/archive/refs/tags/v0.0.1.zip",
     "authors": [
         {
             "name": "Deby"
