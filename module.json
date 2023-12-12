@@ -1,5 +1,5 @@
 {
-    "id": "custom-sheet",
+    "id": "character-sheet",
     "title": "custom sheet - first module example",
     "description": "A simple module so I can grok module development",
     "version": "0.1",
