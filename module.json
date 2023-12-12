@@ -16,8 +16,6 @@
         "verified": "11"
     },
     "scripts": [
-        {
         "scripts/sheet.js"
-        }
     ]
 }
