@@ -13,7 +13,7 @@
     ],
     "compatibility": {
         "minimum": "10",
-        "verified": "11"
+        "verified": "11",
     },
     "scripts": [
         "scripts/sheet.js"
